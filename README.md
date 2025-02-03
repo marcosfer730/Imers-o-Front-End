@@ -22,7 +22,6 @@ Este projeto é uma interface inspirada no Spotify, desenvolvida utilizando HTML
 |   |   |-- sidebar-footer.css (Estilos para a sidebar e footer)
 |-- index.html (Página principal)
 |-- api/ (Integração com API)
-|-- db.json (Banco de dados fake para a API)
 ```
 
 ## 📜 Funcionalidades Implementadas
