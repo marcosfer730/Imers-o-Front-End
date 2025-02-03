@@ -2,6 +2,8 @@
 
 Este projeto é uma interface inspirada no Spotify, desenvolvida utilizando HTML, CSS e JavaScript. O objetivo é criar um layout semelhante ao da plataforma de streaming musical, incluindo funcionalidades básicas de navegação.
 
+🔗 Acesse o projeto aqui: [Spotify Clone](https://marcosfer730.github.io/Imers-o-Front-End/)
+
 ## 📌 Tecnologias Utilizadas
 - HTML5
 - CSS3
@@ -55,18 +57,12 @@ Este projeto é uma interface inspirada no Spotify, desenvolvida utilizando HTML
 ## 📄 Licença
 Este projeto é apenas para fins educacionais e não possui qualquer afiliação com o Spotify.
 
+## ⚡ Atalhos do VS Code
+1. **Copy line up/down**: `Shift + Alt + ↓/↑ `
+2. **Move line up/down**: `Alt + ↓/↑ `
+3. **Indent/outdent line**: `Ctrl + ] / [ `
+4. **Insert cursor**: `Alt + Click`
+5. **Add selection to next Find match**: `Ctrl + D`
+6. **Rename Symbol**: `F2`
+7. **Format document**: `Shift + Alt + F`
 
-1º Atalho do VS Code: Copy line up/down
-Shift + Alt + ↓/↑ 
-2º Atalho: Move line up/down
-Alt + ↓/↑ 
-3º Atalho: Indent/outdent line
-Ctrl + ] / [ 
-4º Atalho: Insert cursor
-Alt + Click
-5º Atalho: Add selection to next Find match
-Ctrl + D
-6º Atalho: Rename Symbol
-F2
-7º Atalho: Format document
-Shift + Alt + F
